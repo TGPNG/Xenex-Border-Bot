@@ -1,4 +1,4 @@
-const { createCanvas } = require("canvas");
+const { createCanvas, Image } = require("canvas");
 
 module.exports = {
     async createSingleCanvas() {
